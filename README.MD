@@ -9,4 +9,4 @@ as part of my UI/UX learning journey.
 - Simple shopping flow exploration
 
 This project was created for learning and hands-on practice.
-Open to feedback and continuous improvement.
+Open to feedback and continuous improvement
